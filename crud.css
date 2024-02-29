@@ -1,0 +1,42 @@
+.back{
+    margin-top: 5%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-left: 2%;
+    text-align: center;
+    border: solid black;
+}
+.first{
+    padding-top: 5%;
+    text-align: center;
+}
+form{
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+}
+input{
+    padding: 1%;
+}
+table,th,tr{
+    border: solid black;
+    border-collapse: collapse;
+    text-align: left;
+}
+table{
+    width: 75%;
+}
+.tab{
+    margin-top: 5%;
+    margin-left: 20%;
+}
+th{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    /* padding-right: 100px; */
+}
+#submit{
+    text-align: center;
+    padding: 10px 24px;
+    font-size: medium;
+}
